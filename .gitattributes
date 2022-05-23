@@ -3,7 +3,7 @@
 
 *.py linguist-language=Python
 
-#*.py linguist-detectable=true
+*.py linguist-detectable=true
 
 *.java linguist-detectable=true
 
